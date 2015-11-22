@@ -1,6 +1,5 @@
-====
-DDPy
-====
+DDPy - data.parliament.uk for Humans
+====================================
 
 Utilities to interact with the data.parliament.uk APIs
 
